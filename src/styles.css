@@ -20,18 +20,36 @@ body {
 }
 
 .content {
+<<<<<<< HEAD
   min-height: calc(100vh - 140px);
   width: 760px;
   max-width: 100%;
   margin: auto;
   padding: 20px;
+=======
+  min-height: calc(100vh - 100px);
+  width: 720px;
+  max-width: 100%;
+  margin: auto;
+>>>>>>> corrected commits idk
 }
 
 .section {
   height: 450px;
   width: 100%;
+<<<<<<< HEAD
+=======
+  margin-top: 20px;
+>>>>>>> corrected commits idk
   display: flex;
   justify-content: center;
   align-items: center;
   border: 1px solid black;
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 25e7fba... added bottom-section styles
+>>>>>>> corrected commits idk
+=======
+>>>>>>> more sytles mod idk
 }
